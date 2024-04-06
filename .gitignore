@@ -1,0 +1,14 @@
+node_modules
+vendor
+.vscode
+public/storage
+public/hot
+storage/*.key
+storage/logs
+storage/app
+storage/framework/views/*
+storage/framework/sessions/*
+storage/debugbar
+.env.dev
+.env.prod
+.env
